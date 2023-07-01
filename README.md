@@ -1,7 +1,5 @@
-- 👋 Hi, I’m JP, I aka the @RogueRocketeer
+- 👋 JP, aka the @RogueRocketeer
 - 👀 High-Powered Rocketry
-- 🌱 High-Powered Rocketry 
-- 💞️ High-Powered Rocketry
 - 📫 Rogue.Roketeer@gmail.com
 
 <!---
